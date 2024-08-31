@@ -1,5 +1,4 @@
 # Rock-Paper-Scissors
 
-A game :)
-<br> <br>
-(made without tutorial)
+<p>A game :)</p>
+
